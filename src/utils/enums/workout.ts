@@ -1,0 +1,16 @@
+export enum WeekdayEnum {
+  MONDAY = "MONDAY",
+  TUESDAY = "TUESDAY",
+  WEDNESDAY = "WEDNESDAY",
+  THURSDAY = "THURSDAY",
+  FRIDAY = "FRIDAY",
+  SATURDAY = "SATURDAY",
+  SUNDAY = "SUNDAY",
+}
+
+export enum WorkoutStatusEnum {
+  COMPLETED = "COMPLETED",
+  SKIPPED = "SKIPPED",
+  ENDED = "ENDED",
+  IN_PROGRESS = "IN_PROGRESS",
+}

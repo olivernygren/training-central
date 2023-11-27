@@ -1,0 +1,7 @@
+export enum SetType {
+  STRAIGHT_SET = "STRAIGHT_SET",
+  SUPERSET = "SUPERSET",
+  DROP_SET = "DROP_SET",
+  DOWN_SET = "DOWN_SET",
+  GIANT_SET = "GIANT_SET",
+}

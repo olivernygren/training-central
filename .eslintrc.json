@@ -5,7 +5,7 @@
     "project": "./tsconfig.json"
   },
   "ignorePatterns": ["next.config.js"],
-  "parser": "@typescript-eslint/parser", 
+  "parser": "@typescript-eslint/parser",
   "settings": {
     "next": {
       "rootDir": "./"
@@ -21,7 +21,13 @@
     "react/no-array-index-key": "off",
     "jsx-a11y/anchor-is-valid": "off",
     "jsx-a11y/media-has-caption": "off",
-    "react/require-default-props": "off"
+    "react/require-default-props": "off",
+    "@typescript-eslint/type-annotation-spacing": [
+      "error",
+      {
+        "before": false,
+        "after": true
+      }
+    ]
   }
 }
-
