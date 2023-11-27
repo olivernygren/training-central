@@ -1,0 +1,22 @@
+export const theme = {
+  colors: {
+    black: "#000000",
+    white: "#ffffff",
+    silver: "#A3A8B0",
+    silverDark: "#7B7E83",
+    gold: "#FFC845",
+    goldDark: "#A28747",
+    goldDarker: "#615435",
+    red: "#E24F4F",
+    redDark: "#7B2D2D",
+    redDarker: "#493232",
+    green: "#4EAF3F",
+    greenDarker: "#1F301C",
+    charcoalDarker: "#171717",
+    charcoalDark: "#1C1C1C",
+    charcoal: "#222222",
+    charcoalSoft: "#303030",
+    charcoalSofter: "#464646",
+    charcoalBleach: "#5E5E5E",
+  },
+};
